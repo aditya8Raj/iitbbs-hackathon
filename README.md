@@ -29,6 +29,10 @@ Quick preview
 
 1. Open `index.html` in a browser (double-click or use "Open File" in the browser).
 
+Live demo
+
+- The site is deployed on Vercel for a live preview: https://team-upyogi-iitbbs.vercel.app/
+
 Run locally (recommended)
 
 1. Clone the repository (if you haven't already):
@@ -38,6 +42,10 @@ Run locally (recommended)
 2. Change into the project directory:
 
    cd iitbbs-hackathon
+
+Deployment
+
+- This project is deployed to Vercel for easy hosting and sharing. See the live demo link above for the production preview.
 
 Development notes
 
@@ -49,4 +57,5 @@ Development notes
 Credits
 
 - Project created by Team Upyogi for the IITBBS Web hackathon challenge.
-- Design assets was provided by the hackathon organizers.
+- Deployed to Vercel: https://team-upyogi-iitbbs.vercel.app/
+- Design assets were provided by the hackathon organizers.
